@@ -1,0 +1,8 @@
+[package]
+name = "double_input"
+version = "0.1.0"
+authors = ["Sivaram Konanki <konanki.sivaram@gmail.com>"]
+
+[lib]
+name = "double_input"
+crate-type = ["dylib"]
